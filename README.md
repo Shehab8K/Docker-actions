@@ -1,6 +1,10 @@
 # Docker-actions
 This is for educational purposes only for ITI assignments
 
+## Test Image on local machine 
+![Screenshot (1513)](https://github.com/Shehab8K/Docker-actions/assets/80785349/71b5af08-a266-477e-9caa-16f6b755a6ce)
+
+
 ## After I made my own image and pushed it on docker hub (notice last time pushed)
 
 ![1](https://github.com/Shehab8K/Docker-actions/assets/80785349/67b6c64d-690e-41a1-a7ad-e2e3283a151b)
