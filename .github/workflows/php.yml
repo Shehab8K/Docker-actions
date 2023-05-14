@@ -33,4 +33,4 @@ jobs:
           dockerfile: Dockerfile
           username: "${{ secrets.REPO_USERNAME }}"
           password: "${{ secrets.REPO_PASSWORD }}"
-          tags: latest  
+          tags: tagname  
